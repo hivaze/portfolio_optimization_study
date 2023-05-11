@@ -7,6 +7,8 @@ __pycache__/
 *.so
 .idea/
 
+FinRL-Tutorials/
+
 # Distribution / packaging
 .Python
 build/
